@@ -1,0 +1,469 @@
+English
+Continue
+START
+Seed
+Load
+Save
+Delete
+Settings
+Exit
+Discord
+Winter
+Peaceful
+Auto Clutch
+Auto Shift
+Distance Driven
+Copy
+km
+Page
+Count
+Back
+3D Screenshot
+Name
+Date
+Driven
+Version
+Overwrite Save?
+Load Save?
+Delete Save?
+Load Last Save?
+Load Last
+Yes
+No
+Random
+RESET
+Reset
+Reset All
+Reset Path
+Player
+Custom Radio
+Steering Wheel
+Sound
+FPS Limit
+Draw Distance Mirror
+Draw Distance
+Terrain Tile Size
+Crosshair Scale
+Look Sensitivity
+Horizontal (X)
+Vertical (Y)
+Scroll Sensitivity
+Object Move Sensitivity
+Object Rotate Sensitivity
+Field Of View On Foot
+Field Of View In Car
+Keyboard Look Sensitivity
+Invert
+Assign
+Enable
+Dead
+Sens
+Max
+Show Values Ingame
+H-Shifter
+Steer
+Throttle
+Brake
+Clutch
+Handbrake
+Change Shift Gears Here
+Middle
+Affects FPS
+V Sync
+Post Processing
+Depth Of Field
+Heat Haze
+Reflections
+Distant Terrain
+Fog
+Shadows
+Mirrors
+Grass
+Smoke
+Antialiasing
+Anisotropic Filtering
+Per Texture
+Forced On
+Sepia
+Grayscale
+C64 Color Palette
+Disable Player Model
+Enable in first person
+Walk Headbob
+Drive Headbob
+Disable Autosave
+Disable In Car
+Auto Continue
+Controls Help
+Crosshair
+Old Crosshair
+Old Heat Haze
+Show FPS
+DropCam Display
+Hair
+Eyebrows
+Mustache
+Eyes
+Shirt
+Pants
+Shoes
+Skin
+Save/Load
+Main Menu
+Cancel
+Waiting For Answer
+Exit?
+Only From Main Menu
+Loading
+Pickup
+Detach
+Use
+Push
+Push & Steer
+Attach
+Mount
+Turn On
+Turn Off
+Open/Close
+Water
+Gas
+Oil
+Blood
+Diesel
+Alcohol
+Turn On/Off
+Open
+Close
+Smooth Open/Close
+Dismount
+Sit
+Connect
+Disconnect
+Drink
+Fill
+Get Out/Stand
+Focus
+Fire
+LMB
+Mouse
+F
+E
+Drive
+R
+Scroll Up/Down
+Reload
+Stick in
+(full)
+empty
+%
+L
+Turn
+Tab
+Equip
+V
+Sleep
+Falling Asleep
+Can't Sleep Yet
+Break Barrel
+Oil Tank
+Coolant
+Fuel Tank
+Adjust
+Tune
+Volume +/-
+Stop
+Lights
+Ignition
+Stand
+RMB
+MMB
+Scroll
+Rotate
+Move
+VR Recenter
+G
+Autosaving
+Drinking
+Wash
+Scrub
+Dust
+Squeeze
+Paint
+Crank
+Attack
+I
+Space
+Reverse
+Ctrl
+Neutral
+N
+Shift Gear
+Lean
+Lean Up/Down
+Q
+L
+Up Shift
+Down Shift
+Accelerate
+↑
+↓
+W
+A
+S
+D
+1-4
+Forward
+Backward
+Left
+Right
+Jump
+Run
+Crouch
+Smooth Crouch
+Inventory
+Burp
+Fart
+Piss
+Look
+Zoom
+Hide HUD
+Small Drop Camera
+360° Screenshot
+360° Camera
+Shift
+B
+P
+Hold Q
+Z
+Y
+Backspace
+F4
+F5
+F6
+F7
+Horn
+Reset Lean
+Camera
+Drop Camera
+Keyboard Look
+H
+C
+Hold C
+X
+On Foot
+In Car
+Lobbies
+Lobby
+Chat
+[Esc]
+Refresh
+Disconnect
+Join
+Password
+Wrong Password or Timed Out
+OK
+[⏎]: Send
+Lobby Name
+LobbyType
+Max Players
+Players Spawn
+At Start
+Near Host
+Create
+Public
+FriendsOnly
+InviteOnly
+Size
+Notification
+Auto Show
+Auto Hide
+Show Names
+Voice Chat
+Push To Talk
+Toggle
+Continous
+Successfully joined lobby
+Couldn't join lobby
+Created lobby
+Couldn't create lobby
+Someone Joined
+Someone Left
+ping
+ms
+Left Lobby
+Error
+Set to lobby owner
+Spawn
+Type message here
+Reset Trip
+Set Direction
+Adjust Time
+Desert
+Rub/Wave
+Alt
+Can't Save
+While Sleeping
+While Sitting Here
+Or Sleeping
+Or Sitting Here
+Don't Sleep
+Don't Sit
+And Sit
+And Sleep
+Keep Trying!
+Saved!
+Coil Up
+Drain
+Unload
+Open Cylinder
+Put On
+Caps Lock
+Take Off Accessories
+Sunglasses effects
+Mixed
+Biome
+Eat
+Smoke
+Hum
+Take One
+Hunger, Thirst
+Always Show HP
+Always Show Food
+Always Show Water
+Always Show Piss
+Always Show Shit
+Graphics
+Controls
+Misc
+Hz
+Resolution
+Screen
+Exclusive Fullscreen
+Fullscreen Window
+Maximized Window
+Windowed
+x
+Mode
+m
+°
+Enabled
+Disabled
+None
+LUT
+volume
+fm
+am
+change am/fm
+Keyboard Steer Sensitivity
+Mouse Steer Sensitivity
+Mouse Throttle/Brake Sensitivity
+Move Forward
+Move Back
+Move Left
+Move Right
+Look Up
+Look Down
+Look Left
+Look Right
+Fire, Primary Action
+Secondary Action
+Rotate
+Run
+Jump
+Crouch
+Use, Interact
+Pickup
+Reload
+Mount/Dismount
+Push
+Equip, Recenter
+Lean
+Piss
+Burp/Fart
+Target
+Map view
+Attach
+Sleep
+Wave/Rub
+Hum
+Smoke
+Remove Accessories
+Inventory Slot 1
+Inventory Slot 2
+Inventory Slot 3
+Inventory Slot 4
+Scroll Up
+Scroll Down
+Change Camera
+Zoom
+Hide HUD
+Place Drop Camera
+Make 3D Screenshot
+Make 360° Screenshot
+360° Camera
+VR Recenter
+Multiplayer Chat
+Voice Chat
+Look around with Move Keys
+Toggle Mouse Driving
+Throttle
+Brake
+Steer Left
+Steer Right
+Clutch
+Toggle Handbrake
+Shift Up
+Shift Down
+Shift To Reverse
+Shift To Neutral
+Shift To 1
+Shift To 2
+Shift To 3
+Shift To 4
+Shift To 5
+Shift To 6
+Ignition
+Horn
+Lights
+Reset Controls
+Force Manual
+Character
+Eyelashes
+Physics Lock
+Glove box, basket
++Trunk, rack
++Whole interior
+Multiplayer
+Switch
+Cloud Shadows
+Rendering Path
+Forward
+Deferred
+Stereoscopic 3D
+Anaglyph
+SBS (L/R)
+SBS (R/L)
+Depth
+Sky Objects
+Reduced Debris
+Collision
+On
+Off
+Snap point
+Origin
+Closest Point
+Developer Mode
+Virtual Reality
+Disable VR
+Map
+cm
+FT.
+Retract
+Release
+Make Snowball
+Make Snowwall
+Auto Run
+Restart
+New Start
+Set Active
+Milk
