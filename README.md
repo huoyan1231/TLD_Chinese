@@ -8,6 +8,6 @@
 
 理论上全版本可用，包括beta版和多人测试版
 
-##注意：此汉化版仅对Unity版TLD生效，Godot版无法使用（Godot版本尚未推出）
+## 注意：此汉化版仅对Unity版TLD生效，Godot版无法使用（Godot版本尚未推出）
 
 游戏链接：https://store.steampowered.com/app/1017180/The_Long_Drive/
